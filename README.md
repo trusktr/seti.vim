@@ -45,7 +45,7 @@ If you use [unbundle](https://github.com/sunaku/vim-unbundle) to manage vim plug
 Plug 'trusktr/seti.vim'
 ```
 
-### With unbundle
+### With Vimana
 
 If you use [Vimana](https://github.com/c9s/Vimana) to manage vim plugins, then
 
