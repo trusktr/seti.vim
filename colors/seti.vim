@@ -59,6 +59,7 @@ hi Title                        ctermfg=188   ctermbg=NONE  cterm=bold          
 hi Todo                         ctermfg=59    ctermbg=NONE  cterm=inverse,bold  guifg=#41535b   guibg=NONE      gui=inverse,bold
 hi Type                         ctermfg=74    ctermbg=NONE  cterm=NONE          guifg=#55b5db   guibg=NONE      gui=NONE
 hi Underlined                   ctermfg=NONE  ctermbg=NONE  cterm=underline     guifg=NONE      guibg=NONE      gui=underline
+
 hi rubyClass                    ctermfg=149   ctermbg=NONE  cterm=NONE          guifg=#9fca56   guibg=NONE      gui=NONE
 hi rubyFunction                 ctermfg=74    ctermbg=NONE  cterm=NONE          guifg=#55b5db   guibg=NONE      gui=NONE
 hi rubyInterpolationDelimiter   ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
@@ -82,21 +83,26 @@ hi rubyRailsARAssociationMethod ctermfg=140   ctermbg=NONE  cterm=NONE          
 hi rubyRailsARMethod            ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
 hi rubyRailsRenderMethod        ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
 hi rubyRailsMethod              ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
+
 hi erubyDelimiter               ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
 hi erubyComment                 ctermfg=59    ctermbg=NONE  cterm=NONE          guifg=#41535b   guibg=NONE      gui=NONE
 hi erubyRailsMethod             ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
+
 hi htmlTag                      ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
 hi htmlEndTag                   ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
 hi htmlTagName                  ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
 hi htmlArg                      ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
 hi htmlSpecialChar              ctermfg=79    ctermbg=NONE  cterm=NONE          guifg=#5eebb8   guibg=NONE      gui=NONE
+
 hi javaScriptFunction           ctermfg=185   ctermbg=NONE  cterm=NONE          guifg=#e6cd69   guibg=NONE      gui=NONE
 hi javaScriptRailsFunction      ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
 hi javaScriptBraces             ctermfg=102   ctermbg=NONE  cterm=NONE          guifg=#858d8a   guibg=NONE      gui=NONE
+
 hi yamlKey                      ctermfg=74    ctermbg=NONE  cterm=NONE          guifg=#55b5db   guibg=NONE      gui=NONE
 hi yamlAnchor                   ctermfg=149   ctermbg=NONE  cterm=NONE          guifg=#9fca56   guibg=NONE      gui=NONE
 hi yamlAlias                    ctermfg=149   ctermbg=NONE  cterm=NONE          guifg=#9fca56   guibg=NONE      gui=NONE
 hi yamlDocumentHeader           ctermfg=74    ctermbg=NONE  cterm=NONE          guifg=#55b5db   guibg=NONE      gui=NONE
+
 hi cssURL                       ctermfg=74    ctermbg=NONE  cterm=NONE          guifg=#55b5db   guibg=NONE      gui=NONE
 hi cssFunctionName              ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
 hi cssColor                     ctermfg=167   ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE
